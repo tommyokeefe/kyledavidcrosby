@@ -1,0 +1,14 @@
+html {
+	background-color: rgb(255, 253, 238);
+	box-sizing: border-box;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+@media (max-width: 480px) {
+	h1 {
+		font-size: 30px;
+	}
+}
